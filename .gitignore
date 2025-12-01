@@ -1,0 +1,4 @@
+# .gitignore
+
+# Ignorar todos los archivos y directorios de datos generados por Portainer
+srv-NS8/ns8-portainer/data/
